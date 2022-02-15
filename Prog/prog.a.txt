@@ -1,0 +1,2 @@
+A csatolt html-ben csinaltuk az ilyen szines dolgot, vettuk a #ff0000 stb
++linear-gradient
